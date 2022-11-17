@@ -1,1 +1,8 @@
 # Queries
+## Fiverr: [https://www.fiverr.com/categories/data/databases/queries](https://www.fiverr.com/categories/data/databases/queries)
+### 1) Create a brief category description for Queries
+### 2) Analyze product/service for Queries
+### 3) Identify various products offered in this category
+### 4) Create a list of various product offerings and write them down here
+### 5) Identify common price range for the products/services offered in this category
+### 6) Identity approximate number of freelancers offering products and services in this category

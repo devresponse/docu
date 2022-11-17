@@ -1,1 +1,8 @@
 # Tagging & Annotation
+## Fiverr: [https://www.fiverr.com/categories/data/data-science/tagging-annotation](https://www.fiverr.com/categories/data/data-science/tagging-annotation)
+### 1) Create a brief category description for Tagging & Annotation
+### 2) Analyze product/service for Tagging & Annotation
+### 3) Identify various products offered in this category
+### 4) Create a list of various product offerings and write them down here
+### 5) Identify common price range for the products/services offered in this category
+### 6) Identity approximate number of freelancers offering products and services in this category
