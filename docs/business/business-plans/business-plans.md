@@ -7,4 +7,4 @@
 #### 4) Identify common price range for the products/services offered in this category on Fiverr.com
 #### 5) Identify approximate number of freelancers offering products and services in this category on Fiverr.com
 
-# (SUBMIT INFORMATION)[https://forms.office.com/r/8AEKjkLxKG]
+# [SUBMIT INFORMATION](https://forms.office.com/r/8AEKjkLxKG)
