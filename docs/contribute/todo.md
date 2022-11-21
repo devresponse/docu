@@ -1,4 +1,4 @@
-# TODO LIST
+# Document todo list
 1. [https://docu.devresponse.com/docs/business/business-plans](https://docu.devresponse.com/docs/business/business-plans)
 1. [https://docu.devresponse.com/docs/business/business-services](https://docu.devresponse.com/docs/business/business-services)
 1. [https://docu.devresponse.com/docs/business/business-tips](https://docu.devresponse.com/docs/business/business-tips)

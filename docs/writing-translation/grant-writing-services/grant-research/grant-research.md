@@ -1,8 +1,8 @@
 # Grant Research
-## Fiverr: [https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research)
-### 1) Create a brief category description for Grant Research
-### 2) Analyze product/service for Grant Research
-### 3) Identify various products offered in this category
-### 4) Create a list of various product offerings and write them down here
-### 5) Identify common price range for the products/services offered in this category
-### 6) Identity approximate number of freelancers offering products and services in this category
+## Task: Create a summary document with analysis of products and services offered on Fiverr.com in [Grant Research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research) category
+#### [https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research)
+#### 1) Create a short general description for products and services offered in the [Grant Research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research)
+#### 2) Extract product/service information for [Grant Research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research) category as listed on Fiverr.com website into a separate CSV file using [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) Chrome extension.
+#### 3) Create a list of various product offerings in [Grant Research](https://www.fiverr.com/categories/writing-translation/grant-writing-services/grant-research). Include product variations with brief descriptions.
+#### 4) Identify common price range for the products/services offered in this category on Fiverr.com
+#### 5) Identify approximate number of freelancers offering products and services in this category on Fiverr.com
